@@ -25,3 +25,6 @@ Just Install (`justinstall`) is our package manager. while it isn't the greatest
 
 * If you fork a repo of ours, you are required to preserve original author attribution notices per our project licenses.
 * It is highly recommended to keep forks FOSS (Free and Open-Source Software) to help the community understand what's different.
+
+Main repo at Codeberg:
+https://codeberg.org/ijmtu-project
